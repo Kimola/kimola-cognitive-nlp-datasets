@@ -23,7 +23,7 @@ All of the datasets contain consumer feedbacks in different languages, below you
 
 | Dataset  | Supported Languages |
 | ------------- | ------------- |
-| [Automotive Consumer Feedbacks](https://github.com/Kimola/kimola-cognitive-nlp-datasets/tree/master/automotive/)  | English, French, German, Turkish, Spanish  |
+| [Automotive Consumer Feedbacks](https://github.com/Kimola/kimola-cognitive-nlp-datasets/tree/master/automotive/)  | [English](https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-english.xlsx), [French](https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-french.xlsx), [German],(https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-german.xlsx) [Turkish](https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-turkish.xlsx), [Spanish] (https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-spanish.xlsx), [Portuguese](https://github.com/Kimola/kimola-cognitive-nlp-datasets/blob/master/automotive/automotive-consumer-feedbacks-portuguese.xlsx) |
 | [Banking Consumer Feedbacks](https://github.com/Kimola/kimola-cognitive-nlp-datasets/tree/master/banking/) | English, French, German, Turkish, Spanish  |
 | [Mobile Network Operators Consumer Feedbacks](https://github.com/Kimola/kimola-cognitive-nlp-datasets/tree/master/common/)  | English, French, German, Turkish, Spanish  |
 | [Common Consumer Feedbacks](https://github.com/Kimola/kimola-cognitive-nlp-datasets/tree/master/mobile-network-operators/)   | English, French, German, Turkish, Spanish  |
