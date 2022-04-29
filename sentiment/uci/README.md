@@ -1,0 +1,2 @@
+# UCI Sentiment Labelled Training Set
+This repository holds sample training sets to create machine learning models for sentiment analyses. All files are created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015. In this repository, you can have these files in Excel format with descriptive label names to enhance readability.
